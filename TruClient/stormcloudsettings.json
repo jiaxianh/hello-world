@@ -1,0 +1,64 @@
+{
+	"TruClient": {
+		"SimulateNewUser": {
+			"value": true
+		},
+		"UseRecordedDuration": {
+			"value": false
+		},
+		"EndEventCauseFailure": {
+			"value": true
+		},
+		"ActionOnError": {
+			"value": 0
+		},
+		"ReplaySnapshotsMode": {
+			"value": 1
+		},
+		"ObjectTimeout": {
+			"value": 20
+		},
+		"StepTimeout": {
+			"value": 180
+		},
+		"StepPacingInterval": {
+			"value": 500
+		},
+		"NetworkEndThreshold": {
+			"value": 150
+		},
+		"TypingInterval": {
+			"value": 350
+		},
+		"MinTimeEnableRandom": {
+			"value": false
+		},
+		"MinTimeRandomLow": {
+			"value": 50
+		},
+		"MinTimeRandomHigh": {
+			"value": 150
+		},
+		"MinTimeEnableRandomLimit": {
+			"value": false
+		},
+		"MinTimeRandomLimitValue": {
+			"value": 3
+		},
+		"MinTimeApplyWaitStep": {
+			"value": false
+		},
+		"AutomaticTransactions": {
+			"value": 0
+		},
+		"LogOptions": {
+			"value": "LogDisabled"
+		},
+		"LogAccumulationMode": {
+			"value": 0
+		},
+		"LogBufferSize": {
+			"value": 10
+		}
+	}
+}
