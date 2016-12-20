@@ -1,0 +1,26 @@
+{
+  "version": "0.0.1",
+  "test": {
+    "script": "har-tester.js"
+  },
+  "local": {
+    "vuserCount": 1,
+    "policy": {
+      "start": { "type": "allTogether" },
+      "duration": { "type": "iterationBased", "param": 1},
+      "end": { "type": "allTogether" }
+    }
+  },
+  "transactions": [
+      "Firefox 31.0",
+      "Opera 12.x",
+      "Safari 8.0",
+      "IE 10",
+      "IE 11",
+      "Chrome 37.0" ]
+}
+
+
+
+
+
